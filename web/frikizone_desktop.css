@@ -1,0 +1,123 @@
+@media screen and (min-width:768px)
+  {
+    body{
+      margin: 10px;
+      padding: 0;
+      background-color: none;
+    }
+    #tot{
+      background-color: rgb(255, 255, 255);
+    }
+    #cap{
+      width: 100%;
+      height: 70px;
+      background-color: rgb(140, 140, 140);
+      text-align: center;
+    }
+    .dencap{
+      float: left;
+      font-size: 15px;
+      background-color: none;
+      width: 12%;
+      margin: 10px;
+      height: 40px;
+      border: solid #FFF 0px;
+      margin-top: 20px;
+      margin-left: 10px;
+      margin-right: 15px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+    }
+    a {text-decoration: none; color: black;}
+    #cos{
+      background-color: none;
+      padding: 5px;
+      width: 65%;
+      float: left;
+    }
+
+    .dencos{
+      background-color: none;
+      margin: 10px;
+      height: 100px;
+      text-align: center;
+      border: solid black 5px;
+      width: 44%;
+      float: left;
+    }
+    #menu{
+      background-color: none;
+      padding: 5px;
+      width: 30%;
+      float: left;
+    }
+    .denmen{
+      background-color: none;
+      margin: 10px;
+      height: 70px;
+      text-align: center;
+      border: solid black 5px;
+    }
+    #info{
+      background-color: rgb(140, 140, 140);
+      width: 100%;
+      height: 50px;
+    }
+    #peu{
+      background-color: none;
+      width: 100%;
+      text-align: center;
+      clear: left;
+    }
+    #fz{
+      width: 300px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    #img1{
+      width: 400px;
+      margin-left: 250px;
+      margin-right: auto;
+      margin-bottom: 50px;
+    }
+    #img2{
+      width: 400px;
+      margin-left: 250px;
+      margin-right: auto;
+      margin-bottom: 50px;
+    }
+    p{
+      font-size: 18px;
+    }
+    .ten{
+      margin-left: auto;
+      margin-right: auto;
+      width: 1000px;
+
+      background-color: none;
+    }
+
+    h1{
+      margin: 0;
+      font-family: 'Quicksand', sans-serif;
+      font-size: 30px;
+    }
+    h3{
+      width: 100%;
+      margin: 0;
+      font-size: 30px;
+      margin-left: 5%;
+      font-family: 'Monda', sans-serif;
+      color:black;
+      background-color: rgb(140, 140, 140);
+    }
+    #tot h1{
+      text-align: center;
+      background-color: rgb(140, 140, 140);
+    }
+    #nav{
+      display: none;
+    }
+}
