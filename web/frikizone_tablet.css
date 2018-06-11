@@ -17,7 +17,7 @@
     .dencap{
       float: left;
       background-color: #7FC24F;
-      width: 14%;
+      width: 13%;
       margin: 1px;
       height: 28px;
       border: solid #FFF 0px;
@@ -25,6 +25,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      margin-left: 5px;
     }
     #cos{
       background-color: #3E5F40;
@@ -84,7 +85,7 @@
     h1{
       margin: 0;
       font-family: 'Quicksand', sans-serif;
-      font-size: 15px ;
+      font-size: 25px ;
 
     }
     h3{
